@@ -4,9 +4,13 @@ programa
 	funcao inicio()
 	{
 	 cadeia nome
+        inteiro idade
 	 escreva("qual é o seu nome?")
 	 leia(nome)
 	 escreva("boa tarde ",nome)
+         escreva("qual a sua idade?")
+         leia(idade)
+         escreva("você tem ",nome,"tem ",idade,"anos")
 	}
 }
 /* $$$ Portugol Studio $$$ 
