@@ -3,14 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-	 cadeia nome
-        inteiro idade
-	 escreva("qual é o seu nome?")
-	 leia(nome)
-	 escreva("boa tarde ",nome)
-         escreva("qual a sua idade?")
-         leia(idade)
-         escreva("você tem ",nome,"tem ",idade,"anos")
+		escreva("Olá Mundo")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -18,7 +11,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 125; 
+ * @POSICAO-CURSOR = 12; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
